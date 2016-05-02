@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scalaeprimaeafi00spengoog_0016.png"; bbox 0 0 2409 3642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 480 836 1941 2632">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 480 836 1941 2632">
+     <span class='ocr_line' id='line_1_1' title="bbox 480 836 1941 2632; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 480 836 1941 2632; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 2693 2111 2811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 2693 2111 2811">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 2693 2111 2754; baseline -0.002 -10"><span class='ocrx_word' id='word_1_2' title='bbox 305 2699 508 2744; x_wconf 66' lang='lat' dir='ltr'><strong>Burrum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 531 2696 812 2743; x_wconf 70' lang='lat' dir='ltr'>Wnuuons.</span> <span class='ocrx_word' id='word_1_4' title='bbox 865 2695 1035 2750; x_wconf 84' lang='lat' dir='ltr'>(From</span> <span class='ocrx_word' id='word_1_5' title='bbox 1065 2706 1270 2739; x_wconf 80' lang='lat' dir='ltr'><strong>annom·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1300 2707 1365 2738; x_wconf 86' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1395 2693 1621 2749; x_wconf 77' lang='lat' dir='ltr'><strong>trophies</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1649 2696 1754 2742; x_wconf 71' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1783 2695 2111 2754; x_wconf 74' lang='lat' dir='ltr'>antiquarian</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 857 2753 1582 2811; baseline 0 -13"><span class='ocrx_word' id='word_1_10' title='bbox 857 2753 1148 2800; x_wconf 73' lang='lat' dir='ltr'><strong>discoveries</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1177 2753 1236 2797; x_wconf 87' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1257 2753 1346 2798; x_wconf 76' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1375 2754 1582 2811; x_wconf 84' lang='lat' dir='ltr'><strong>period.)</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
